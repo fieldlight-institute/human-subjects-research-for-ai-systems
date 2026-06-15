@@ -30,3 +30,7 @@ What should human subjects research mean when AI systems can observe, remember, 
 - Memory withdrawal protocols
 - Case studies
 - Governance diagrams
+
+## Copyright And Use
+
+This repository is public for reading and citation, but it is not open-licensed by default. See [Copyright And Use](COPYRIGHT.md).
