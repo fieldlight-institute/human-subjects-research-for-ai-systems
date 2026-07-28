@@ -2,6 +2,10 @@
 
 This repository develops a research governance framework for AI-mediated human systems.
 
+## Current Working Proposal
+
+- [Fieldlight Human Research Utility](FIELDLIGHT-HUMAN-RESEARCH-UTILITY.md) — a participant-governed institutional and technical layer for time-bounded, compensated, and auditable human-AI research.
+
 ## Premise
 
 AI systems increasingly observe, infer, remember, adapt to, and intervene in human behavior. In many cases, these systems blur the line between product experimentation, behavioral research, personalization, surveillance, and human subjects research.
@@ -30,6 +34,14 @@ What should human subjects research mean when AI systems can observe, remember, 
 - Memory withdrawal protocols
 - Case studies
 - Governance diagrams
+
+The Human Research Utility proposal identifies an initial canonical artifact set:
+
+- Participant Charter
+- Research Participation Grant
+- Progressive Consent Protocol
+- Compensation And Benefit Standard
+- Study Closeout Record
 
 ## Copyright And Use
 
