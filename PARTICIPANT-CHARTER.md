@@ -2,9 +2,13 @@
 
 ## Rights For Human-AI Research
 
-Status: Working charter 0.1  
-Created: July 2026  
-Program: Fieldlight Human Research Utility
+Status: Working charter 0.1
+
+Created: July 2026
+
+Proposed by: Fieldlight Institute
+
+Implementation program: Fieldlight Human Research Utility
 
 ## Preamble
 
@@ -12,7 +16,7 @@ Human-AI research can reach into conversation, memory, work, relationships, emot
 
 The intimacy of that access does not reduce the authority of the person being studied. It increases the obligations of the institutions asking to study them.
 
-This Charter establishes the rights of people who participate in research conducted through the Fieldlight Human Research Utility. It begins from a simple position:
+This Charter establishes baseline rights that should govern all human-AI research. It begins from a simple position:
 
 > A participant is not raw material. A participant is a rights-bearing party to a temporary research relationship.
 
@@ -22,9 +26,11 @@ These rights apply across recruitment, enrollment, active research, analysis, pu
 
 ## Standing Of This Charter
 
-This is a working constitutional artifact for the proposed Fieldlight Human Research Utility.
+Fieldlight Institute proposes this Charter as a constitutional standard for human-AI research. The proposed Fieldlight Human Research Utility is one institutional model for putting it into practice. Its protections do not depend on participation in a Fieldlight program.
 
-The Charter defines the minimum rights that future protocols, interfaces, study agreements, technical systems, compensation structures, and research-tenant contracts must preserve. A study may provide greater protection. It may not provide less by burying exceptions in product terms, privacy policies, or research disclosures.
+The Charter defines the minimum rights that research protocols, interfaces, study agreements, technical systems, compensation structures, and institutional contracts must preserve. A study may provide greater protection. It may not provide less by burying exceptions in product terms, privacy policies, or research disclosures.
+
+This Charter uses **Research Participation Grant** to mean the explicit, time-bounded record of authority between a participant and a study. An institution may use another name. It must still provide the same legible record of purpose, scope, access, use, duration, compensation, withdrawal, and accountability.
 
 These rights are not waived because:
 
@@ -36,7 +42,7 @@ These rights are not waived because:
 - a participant has agreed to ordinary product terms; or
 - collection, inference, or reuse is technically possible.
 
-The Charter does not replace rights established by law, professional ethics, institutional review, contract, or other applicable standards. Where another valid standard provides stronger protection, the stronger protection should control.
+The Charter does not replace rights established by law, professional ethics, institutional review, contract, or other applicable standards. Where another valid standard provides stronger protection, the stronger protection controls.
 
 ## The Rights Of Participants
 
@@ -79,7 +85,7 @@ Participation must be voluntary.
 
 A person may decline an invitation without losing ordinary access to a product or service, except where the service itself exists solely as the disclosed research study.
 
-Researchers and research tenants may not use:
+Researchers and research institutions may not use:
 
 - manipulative interface design;
 - deceptive urgency;
@@ -173,7 +179,7 @@ This includes:
 - prior grant versions;
 - consent changes;
 - access events;
-- responsible researchers and research tenants;
+- responsible researchers and research institutions;
 - requested and denied access;
 - retention status;
 - payment status;
@@ -278,7 +284,7 @@ When appropriate and safe, participants should receive a plain-language account 
 
 A participant may ask questions, report harm, challenge an access event, dispute nonpayment, or allege a grant violation without retaliation.
 
-The Utility must provide:
+The governing institution must provide:
 
 - a visible point of contact;
 - a documented response process;
@@ -287,13 +293,13 @@ The Utility must provide:
 - notice of the outcome;
 - and a route to appeal.
 
-Available remedies may include correction, payment, access suspension, deletion where possible, use restriction, publication correction, tenant sanction, removal from the Utility, or referral to an appropriate external authority.
+Available remedies may include correction, payment, access suspension, deletion where possible, use restriction, publication correction, institutional sanction, removal from a governing research utility, or referral to an appropriate external authority.
 
 ### 19. The Right To Participant Representation
 
-Participants have the right to meaningful representation in the governance of the Utility.
+Participants have the right to meaningful representation in the institutions and utilities that govern human-AI research.
 
-An independent participant body should have formal authority to:
+An independent participant body must have formal authority to:
 
 - review changes to this Charter;
 - advise on compensation and risk standards;
@@ -304,9 +310,9 @@ An independent participant body should have formal authority to:
 
 Participant representation must not be merely ceremonial.
 
-## Responsibilities Of Researchers And Research Tenants
+## Responsibilities Of Researchers And Research Institutions
 
-Every researcher and research tenant operating through the Utility must:
+Every researcher and institution conducting human-AI research must:
 
 - request no more authority than the study needs;
 - use granted access only for disclosed purposes;
@@ -321,25 +327,25 @@ Every researcher and research tenant operating through the Utility must:
 - complete participant-facing closeout; and
 - submit to investigation and remedy when the Charter may have been violated.
 
-Research tenants remain responsible for contractors, tools, models, and subprocessors they introduce into the study.
+Research institutions remain responsible for contractors, tools, models, and subprocessors they introduce into the study.
 
-## Responsibilities Of The Utility
+## Responsibilities Of Research Utilities And Governing Institutions
 
-The Utility must:
+Any research utility or governing institution that adopts this Charter or claims compliance with it must:
 
 - preserve this Charter across technical and commercial changes;
 - keep consent terms legible and enforceable;
 - maintain complete grant and access histories;
 - minimize institutional conflicts of interest;
 - separate participant protection from the unilateral control of research operations;
-- review tenant eligibility and study risk;
+- review institutional eligibility and study risk;
 - provide independent complaint and appeal paths;
 - investigate credible violations;
 - impose meaningful consequences;
 - publish aggregate accountability information without exposing participants;
 - and maintain a succession or shutdown plan for participant records.
 
-The Utility may not quietly weaken participant rights to increase study volume, tenant revenue, data availability, or marketplace liquidity.
+An adopting institution may not quietly weaken participant rights to increase study volume, institutional revenue, data availability, or marketplace liquidity.
 
 ## Enforcement
 
@@ -355,15 +361,15 @@ Future operating protocols must define:
 - what remedies are available;
 - and how decisions can be appealed.
 
-Where immediate risk exists, the Utility should be able to pause access before completing a full investigation.
+Where immediate risk exists, the governing institution must be able to pause access before completing a full investigation.
 
-Repeated or serious violations may result in study suspension, participant notification, required correction, financial remedy, publication of an accountability notice, termination of tenant access, or referral to an appropriate external body.
+Repeated or serious violations may result in study suspension, participant notification, required correction, financial remedy, publication of an accountability notice, termination of institutional or utility access, or referral to an appropriate external body.
 
 ## Amendment
 
-This Charter should evolve through public revision, participant review, and documented version history.
+This Charter must evolve through public revision, participant review, and documented version history.
 
-No amendment may retroactively expand an active Research Participation Grant.
+No amendment may retroactively expand an active Research Participation Grant or equivalent research agreement.
 
 Material changes require:
 
@@ -380,4 +386,3 @@ An unresolved disagreement should remain visible in the institutional record.
 Human research is legitimate only when the people who make it possible remain visible as persons with authority.
 
 The purpose of this Charter is not to make every study frictionless. It is to ensure that research capability does not outrun the rights of the people whose lives it enters.
-

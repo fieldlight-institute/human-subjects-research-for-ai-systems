@@ -37,7 +37,7 @@ What should human subjects research mean when AI systems can observe, remember, 
 
 The Human Research Utility proposal identifies an initial canonical artifact set:
 
-- [Participant Charter](PARTICIPANT-CHARTER.md)
+- [Participant Charter](PARTICIPANT-CHARTER.md) — baseline rights that should govern all human-AI research.
 - Research Participation Grant
 - Progressive Consent Protocol
 - Compensation And Benefit Standard
