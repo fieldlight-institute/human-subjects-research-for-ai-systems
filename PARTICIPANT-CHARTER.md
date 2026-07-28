@@ -2,13 +2,20 @@
 
 ## Rights For Human-AI Research
 
-Status: Working charter 0.1
+Status: Working charter 0.2
 
 Created: July 2026
 
 Proposed by: Fieldlight Institute
 
 Implementation program: Fieldlight Human Research Utility
+
+## Version History
+
+| Version | Date | Material change |
+|---|---|---|
+| 0.1 | July 2026 | Initial working charter scoped to research conducted through the Fieldlight Human Research Utility. |
+| 0.2 | July 2026 | Established the Charter as a proposed baseline for all human-AI research, with Fieldlight Institute as proposer and the Human Research Utility as an implementation model rather than the boundary of its protections. |
 
 ## Preamble
 
