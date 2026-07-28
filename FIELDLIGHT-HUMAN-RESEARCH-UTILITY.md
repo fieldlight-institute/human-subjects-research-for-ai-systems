@@ -295,7 +295,7 @@ Before operational studies begin, the applicable legal, ethical, security, and d
 
 The concept should be developed through five canonical working artifacts:
 
-1. **Participant Charter** — the rights and protections that structure every study.
+1. **[Participant Charter](PARTICIPANT-CHARTER.md)** — the rights and protections that structure every study.
 2. **Research Participation Grant** — the human- and machine-readable authority record.
 3. **Progressive Consent Protocol** — the consent states, transitions, interfaces, and enforcement rules.
 4. **Compensation And Benefit Standard** — principles for payment, contribution, coercion risk, and return of value.
@@ -349,4 +349,3 @@ The Human Research Utility makes those principles operative in the relationship 
 - How should participant contributions be recognized when they materially shape a method, finding, dataset, or model?
 - What sanctions should apply when a research tenant exceeds its grant?
 - Which first pilot can test the governance model with the least avoidable risk?
-
