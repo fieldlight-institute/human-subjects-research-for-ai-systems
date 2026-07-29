@@ -2,7 +2,7 @@
 
 ## Rights For Human-AI Research
 
-Status: Working charter 0.2
+Status: Working charter 0.3
 
 Created: July 2026
 
@@ -16,6 +16,7 @@ Implementation program: Fieldlight Human Research Utility
 |---|---|---|
 | 0.1 | July 2026 | Initial working charter scoped to research conducted through the Fieldlight Human Research Utility. |
 | 0.2 | July 2026 | Established the Charter as a proposed baseline for all human-AI research, with Fieldlight Institute as proposer and the Human Research Utility as an implementation model rather than the boundary of its protections. |
+| 0.3 | July 2026 | Recast the Charter's universal claim from recommendation to declaration: these baseline rights govern all human-AI research. |
 
 ## Preamble
 
@@ -23,7 +24,7 @@ Human-AI research can reach into conversation, memory, work, relationships, emot
 
 The intimacy of that access does not reduce the authority of the person being studied. It increases the obligations of the institutions asking to study them.
 
-This Charter establishes baseline rights that should govern all human-AI research. It begins from a simple position:
+This Charter establishes baseline rights that govern all human-AI research. It begins from a simple position:
 
 > A participant is not raw material. A participant is a rights-bearing party to a temporary research relationship.
 

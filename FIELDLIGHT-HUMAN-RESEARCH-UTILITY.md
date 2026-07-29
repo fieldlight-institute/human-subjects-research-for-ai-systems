@@ -295,7 +295,7 @@ Before operational studies begin, the applicable legal, ethical, security, and d
 
 The concept should be developed through five canonical working artifacts:
 
-1. **[Participant Charter](PARTICIPANT-CHARTER.md)** — baseline rights and protections that should govern all human-AI research.
+1. **[Participant Charter](PARTICIPANT-CHARTER.md)** — baseline rights and protections that govern all human-AI research.
 2. **Research Participation Grant** — the human- and machine-readable authority record.
 3. **Progressive Consent Protocol** — the consent states, transitions, interfaces, and enforcement rules.
 4. **Compensation And Benefit Standard** — principles for payment, contribution, coercion risk, and return of value.
